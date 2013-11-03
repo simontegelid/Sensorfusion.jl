@@ -1,5 +1,8 @@
 module Sensorfusion
 
-# package code goes here
+export Statevector, KalmanFilter
 
-end # module
+include("statevec.jl")
+include("kalman.jl")
+
+end
