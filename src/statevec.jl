@@ -1,4 +1,4 @@
-type Statevector
+mutable struct Statevector
     xhat::Vector
     P::Matrix
 

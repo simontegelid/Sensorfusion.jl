@@ -1,0 +1,7 @@
+name = "Sensorfusion"
+uuid = "5d018a80-e32d-11e8-9bcd-f48c50ae6a00"
+version = "0.0.0"
+author = ["Simon Tegelid <simon@tegelid.se>"]
+
+[deps]
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"

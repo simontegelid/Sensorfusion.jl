@@ -1,5 +1,5 @@
 using Sensorfusion
-using Base.Test
+using Test
 
 tests = ["kalman"]
 
